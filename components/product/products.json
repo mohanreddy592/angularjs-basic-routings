@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "iphone",
+        "company": "Apple",
+        "price": 45000,
+        "imgurl": "https://icdn3.digitaltrends.com/image/iphone-8-update-in-hand-logo-800x533-c.jpg"
+    },
+    {
+        "id": 2,
+        "name": "galaxy s6",
+        "company": "Samsung",
+        "price": 20000,
+        "imgurl": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/w800h450crop/public/topic_images/2015/galaxy-s6-both-versions-5.jpg?itok=2t6DYZEw&timestamp=1429735520"
+    },
+    {
+        "id": 3,
+        "name": "Note 4",
+        "company": "Redmi",
+        "price": 15000,
+        "imgurl": "https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note4-sn-3.jpg"
+    }    
+]
