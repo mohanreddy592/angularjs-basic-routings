@@ -12,3 +12,5 @@ for url navigation you should use ui-sref attribute on anchor tag like
 <a ui-sref="home">Home</a>
 
 $urlRouterProvider to inject default page in view
+
+Done the product list and product details pages using routing concepts
